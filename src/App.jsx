@@ -19,7 +19,7 @@ function App() {
       <header className="fixed top-0 w-full bg-navy/95 backdrop-blur-xl z-50 border-b border-gold/10">
         <div className="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center lg:flex">
           <div className="flex items-center space-x-4">
-            <img src="src/assets/logo.jpg" alt="Erevna" className="w-20 h-20" />
+            <img src="/logo.jpg" alt="Erevna" className="w-20 h-20" />
             <div className="text-gold">
               <div className="font-serif text-3xl font-bold">EREVNA</div>
               <div className="text-xs tracking-widest">LEADERSHIP ACADEMY</div>

@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 export default function Hero() {
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center text-center overflow-hidden">
-      <img src="public/logo.jpg" alt="Manual Cover" className="absolute inset-0 w-full h-full object-cover" />
+      <img src="/logo.jpg" alt="Manual Cover" className="absolute inset-0 w-full h-full object-cover" />
       <div className="absolute inset-0 bg-navy/90"></div>
 
       <motion.div
@@ -14,7 +14,7 @@ export default function Hero() {
         className="relative z-10 px-6 max-w-6xl"
       >
         <motion.img
-          src="public/crest.png"
+          src="/crest.png"
           alt="Erevna Crest"
           className="w-48 mx-auto mb-5 animate-float"
         />
