@@ -6,7 +6,7 @@ const Founder = () => {
         <div className="bg-white rounded-2xl shadow-xl p-8 md:p-12">
           <div className="flex flex-col items-center">
             <img 
-              src="src/assets/founder.jpg" 
+              src="public/founder.jpg" 
               alt="Emmanuel O. Thomas" 
               className="w-60 h-100 rounded-full object-cover shadow-lg border-4 border-white mb-8 hover:scale-105 transition-transform duration-300"
             />

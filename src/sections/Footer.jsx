@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="bg-navy/95 py-16 text-cream border-t border-gold/20">
       <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
         <div className="text-left">
-          <img src="src/assets/logo1.png" alt="Erevna" className="w-32 mb-6 hover:opacity-90 transition-opacity" />
+          <img src="public/logo1.png" alt="Erevna" className="w-32 mb-6 hover:opacity-90 transition-opacity" />
           <h3 className="font-serif text-3xl text-gold mb-4">EREVNA LEADERSHIP ACADEMY</h3>
           <p className="text-lg mb-8">Empowering the Next Generation of Authentic African Leaders</p>
         </div>

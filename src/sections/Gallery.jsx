@@ -4,17 +4,17 @@ import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const images = [
-  'src/assets/pic1.jpg',
-  'src/assets/pic2.jpg',
-  'src/assets/pic3.jpg',
-  'src/assets/pic4.jpg',
-  'src/assets/pic5.jpg',
-  'src/assets/pic6.jpg',
-  'src/assets/pic7.jpg',
-  'src/assets/pic8.jpg',
-  'src/assets/pic9.jpg',
-  'src/assets/pic10.jpg',
-  'src/assets/pic11.jpg',
+  'public/pic1.jpg',
+  'public/pic2.jpg',
+  'public/pic3.jpg',
+  'public/pic4.jpg',
+  'public/pic5.jpg',
+  'public/pic6.jpg',
+  'public/pic7.jpg',
+  'public/pic8.jpg',
+  'public/pic9.jpg',
+  'public/pic10.jpg',
+  'public/pic11.jpg',
 ];
 
 export default function Gallery() {
