@@ -26,9 +26,9 @@ export default function Hero() {
           LEADERSHIP ACADEMY
         </motion.p>
 
-        <motion.div className="mt-12 text-cream/90 text-xl md:text-2xl font-light">
+        <motion.div className="mt-12 text-cream/90 text-4xl md:text-4xl font-light">
           <p>PERSONAL DEVELOPMENT</p>
-          <p className="text-4xl md:text-6xl font-serif text-gold my-4">TRAINING MANUAL</p>
+          <p className="text-4xl md:text-6xl font-serif text-gold my-4">TRAINING</p>
           <p>FOR YOUNG LEADERS</p>
         </motion.div>
 
